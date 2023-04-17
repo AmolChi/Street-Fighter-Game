@@ -4,9 +4,9 @@ It is a 2D game which can be run using the jar file present. The system must hav
 This project is a rip off of the 21st century game "Street Fighter" with two characters Ryu and Ken
 
   RYU MOVES
-    W: Jump\n
-    A: Move left\n
-    D: Move right\n
+    W: Jump
+    A: Move left
+    D: Move right
     P: Punch\n
     O: Kick\n
     E: Special Attack
