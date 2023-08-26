@@ -27,5 +27,5 @@ Screen Shots
 
 ![image](https://github.com/AmolChi/Street-Fighter-Game/assets/75240926/9516830b-71fa-4fb7-aa5d-60f218c2593d)
 
-![Uploading image.png…]()
+![image](https://github.com/AmolChi/Street-Fighter-Game/assets/75240926/243e7916-67a7-4769-8104-6b2c133588b3)
 
